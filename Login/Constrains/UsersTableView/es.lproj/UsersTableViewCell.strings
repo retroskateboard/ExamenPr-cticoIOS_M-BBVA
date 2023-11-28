@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "edadUR"; ObjectID = "7Sa-rM-dfL"; */
+"7Sa-rM-dfL.text" = "edadUR";
+
+/* Class = "UILabel"; text = "emailUR"; ObjectID = "BdT-VY-PZo"; */
+"BdT-VY-PZo.text" = "emailUR";
+
+/* Class = "UILabel"; text = "Nombre:"; ObjectID = "ECm-dg-yJw"; */
+"ECm-dg-yJw.text" = "Nombre:";
+
+/* Class = "UILabel"; text = "nickUR"; ObjectID = "IzS-8A-cGS"; */
+"IzS-8A-cGS.text" = "nickUR";
+
+/* Class = "UILabel"; text = "Teléfono:"; ObjectID = "N6N-QZ-ndP"; */
+"N6N-QZ-ndP.text" = "Teléfono:";
+
+/* Class = "UILabel"; text = "natioUR"; ObjectID = "OZ7-Iz-Wue"; */
+"OZ7-Iz-Wue.text" = "natioUR";
+
+/* Class = "UILabel"; text = "telUR"; ObjectID = "QGT-0G-fbA"; */
+"QGT-0G-fbA.text" = "telUR";
+
+/* Class = "UILabel"; text = "Dirección:"; ObjectID = "TQI-mu-YZK"; */
+"TQI-mu-YZK.text" = "Dirección:";
+
+/* Class = "UILabel"; text = "Nacionalidad:"; ObjectID = "Wbx-Sg-30H"; */
+"Wbx-Sg-30H.text" = "Nacionalidad:";
+
+/* Class = "UILabel"; text = "direccionUR"; ObjectID = "YHp-fd-xw4"; */
+"YHp-fd-xw4.text" = "direccionUR";
+
+/* Class = "UILabel"; text = "Edad:"; ObjectID = "o1h-Sk-UKH"; */
+"o1h-Sk-UKH.text" = "Edad:";
+
+/* Class = "UILabel"; text = "nombreUR"; ObjectID = "oee-cf-K9t"; */
+"oee-cf-K9t.text" = "nombreUR";

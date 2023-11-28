@@ -1,0 +1,22 @@
+/* 
+  MainEnglish.strings
+  Constrains
+
+  Created by Eric Rojas Pech on 27/11/23.
+  
+*/
+
+"Usuario" = "User";
+"Ingresa tu usuario aquí..." = "Enter your user here...";
+"Contraseña" = "Password";
+"Ingresa tu contraseña aquí..." = "Enter your password here...";
+"Mostrar contraseña" = "Show password";
+"Ocultar contraseña" = "Hide password";
+"Iniciar sesión" = "Login";
+"O" = "Or";
+"Nombre:" = "Name";
+"Dirección:" = "Address";
+"Teléfono:" = "Phone";
+"Edad:" = "Age";
+"Nacionalidad:" = "Nation";
+"Salir" = "Exit";

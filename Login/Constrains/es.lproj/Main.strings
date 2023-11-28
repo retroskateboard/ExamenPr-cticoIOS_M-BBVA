@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "User"; ObjectID = "GVt-EV-IgR"; */
+"GVt-EV-IgR.text" = "Usuario";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "HzC-kN-tas"; */
+"HzC-kN-tas.text" = "O";
+
+/* Class = "UITextField"; placeholder = "Enter your password here..."; ObjectID = "OlY-lU-i4j"; */
+"OlY-lU-i4j.placeholder" = "Ingresa tu contraseña aquí...";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "alt-Zi-PAm"; */
+"alt-Zi-PAm.text" = "Contraseña";
+
+/* Class = "UINavigationItem"; title = "Salir"; ObjectID = "c2L-wj-9uF"; */
+"c2L-wj-9uF.title" = "Salir";
+
+/* Class = "UIButton"; configuration.title = "Salir"; ObjectID = "dQz-qC-5XJ"; */
+"dQz-qC-5XJ.configuration.title" = "Salir";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dQz-qC-5XJ"; */
+"dQz-qC-5XJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Show password"; ObjectID = "g5v-pu-DSj"; */
+"g5v-pu-DSj.configuration.title" = "Mostrar contraseña";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g5v-pu-DSj"; */
+"g5v-pu-DSj.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter your user here..."; ObjectID = "hRw-Zd-efC"; */
+"hRw-Zd-efC.placeholder" = "Ingresa tu usuario aquí...";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "ihG-Ep-LOO"; */
+"ihG-Ep-LOO.configuration.title" = "Inicio de sesión";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ihG-Ep-LOO"; */
+"ihG-Ep-LOO.normalTitle" = "Button";
