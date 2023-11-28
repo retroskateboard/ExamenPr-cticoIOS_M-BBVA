@@ -36,7 +36,7 @@ _"Discover the randomness of user data with Random User Explorer!"_
 
 <!-- User List Screen -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/retroskateboard/ExamenPracticoIOS_M-BBVA/main/users_es.png" alt="User List Screen" width="250">
+  <img src="https://raw.githubusercontent.com/retroskateboard/ExamenPracticoIOS_M-BBVA/main/images/users_es2.png" alt="User List Screen" width="250">
 </p>
 <p align="center">
   User List Screen - Español 
@@ -54,7 +54,7 @@ _"Discover the randomness of user data with Random User Explorer!"_
 
 <!-- User List Screen - English -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/retroskateboard/ExamenPracticoIOS_M-BBVA/main/users_en.png" alt="User List Screen" width="250">
+  <img src="https://raw.githubusercontent.com/retroskateboard/ExamenPracticoIOS_M-BBVA/main/images/users_en2.png" alt="User List Screen" width="250">
 </p>
 <p align="center">
   User List Screen - English
