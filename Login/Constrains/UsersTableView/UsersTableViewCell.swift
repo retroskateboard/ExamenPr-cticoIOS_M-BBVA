@@ -14,6 +14,7 @@ class UsersTableViewCell: UITableViewCell {
     
     static func nib() -> UINib{
         return UINib(nibName: "UsersTableViewCell", bundle: nil)
+        
     }
     
     
@@ -29,12 +30,20 @@ class UsersTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        imageUR.layer.cornerRadius = imageUR.frame.size.width / 2
+        imageUR.clipsToBounds = true
+        imageUR.layer.borderWidth = 6.0
+        imageUR.layer.borderColor = UIColor.lightGray.cgColor
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
         // Configure the view for the selected state
+        
+        if selected {
+                setSelected(false, animated: true)
+            }
     }
     
 }
